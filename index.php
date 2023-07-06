@@ -1,4 +1,5 @@
 <?php
+//CRUD PHP
 // Conexión a la base de datos
 $host = 'localhost';
 $db = 'nombre_base_de_datos';
